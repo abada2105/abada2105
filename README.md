@@ -1,5 +1,5 @@
 # Hi there 👋
-###### **_helloooooooo_**
+###### **_Tech Degree Apprentice at PwC, studying at QMUL_**
 <!--
 **abada2105/abada2105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
